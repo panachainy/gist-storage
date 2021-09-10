@@ -12,6 +12,6 @@ jobs:
         with:
           auth: ${{ secrets.GIST_TOKEN }}
           gist_url: https://gist.github.com/panachainy/8ffe5bfa0cadf5fbd929bc3cfc076fc4
-          gist_title: Example Gist Title2
+          gist_title: dd.js
           gist_description: Example Gist Description
           github_file: example/dd.js
