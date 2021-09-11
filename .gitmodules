@@ -1,8 +1,0 @@
-[submodule "8ffe5bfa0cadf5fbd929bc3cfc076fc4"]
-	path = 8ffe5bfa0cadf5fbd929bc3cfc076fc4
-	url = git@gist.github.com:8ffe5bfa0cadf5fbd929bc3cfc076fc4.git
-	branch = master
-[submodule "0d4406c0a0857ec08b6c87eda14a46e4"]
-	path = 0d4406c0a0857ec08b6c87eda14a46e4
-	url = git@gist.github.com:0d4406c0a0857ec08b6c87eda14a46e4.git
-	branch = master
