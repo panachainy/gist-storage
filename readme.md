@@ -8,10 +8,10 @@
 git clone --recurse-submodules git@github.com:panachainy/gist-storage.git
 ```
 
-### Aadd
+### Add
 
 ```sh
-git submodule add -b master <git-url>
+git submodule add -b master <git-url> <your-path>
 ```
 
 ### Fix branch submodule
