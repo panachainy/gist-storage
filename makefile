@@ -1,26 +1,26 @@
 # run after clone
-init-submodule:
+init:
 	git submodule update --init --recursive
 
 update:
 	git submodule update --recursive --remote
 
-# push-all:
+# push-a:
 # 	git push --recurse-submodules=on-demand
 
-pull-all:
+pull-a:
 	git submodule foreach git pull origin master
 
-status-all:
+status-a:
 	git submodule status --recursive
 
-# add-all:
+# add-a:
 # 	git submodule foreach git add .
 
 ## not work
-# commit-all:
+# commit-a:
 # 	git submodule foreach git commit -m "auto-commit"
 
 ## not work
-# push-all:
+# push-a:
 # 	git submodule foreach git push
